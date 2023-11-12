@@ -1,7 +1,6 @@
 import json
 
-# Example usage
-from src.sentiment_intention_analyzer import SentimentIntentionAnalyzer
+from src.sentiment_intent_analyzer import SentimentIntentionAnalyzer
 
 
 def load_transcript_from_file(file_path):
@@ -13,8 +12,7 @@ def load_transcript_from_file(file_path):
 def save_transcript_to_file(transcript, file_path):
     with open(file_path, "w") as file:
         file.write(transcript)
-        #json.dump(transcript, file, indent=2)
-
+        
 
 def format_output(step, sentiment, sent_score, intent, intent_score):
     formatted_output = f"Step {step} - Sentiments: {sentiment} with score: {sent_score}\nIntent: {intent} with score: {intent_score}"
