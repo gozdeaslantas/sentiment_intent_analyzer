@@ -1,0 +1,143 @@
+[
+    {
+      "step": 1,
+      "buyer": "Hi, I'm interested in purchasing the new iPhone 14.",
+      "seller": "Hello! That's great. The iPhone 14 is an excellent choice. How can I assist you today?",
+      "intention": "purchase",
+      "sentiment": "positive"
+    },
+    {
+      "step": 2,
+      "buyer": "I heard about some special offers. Can you tell me more about them?",
+      "seller": "Certainly! We have several exciting offers available. Let me provide you with the details.",
+      "intention": "provide_information",
+      "sentiment": "neutral"
+    },
+    {
+      "step": 3,
+      "buyer": "That sounds interesting. What are the pricing options?",
+      "seller": "We have different pricing plans based on your preferences. Let me share the options with you.",
+      "intention": "provide_information",
+      "sentiment": "positive"
+    },
+    {
+      "step": 4,
+      "buyer": "The pricing seems a bit high. Can you offer any discounts?",
+      "seller": "I understand your concern. Let me check if there are any available discounts for you.",
+      "intention": "provide_information",
+      "sentiment": "negative"
+    },
+    {
+      "step": 5,
+      "buyer": "Great! If there's a discount, I'll definitely proceed with the purchase.",
+      "seller": "Excellent! I'll do my best to find a suitable discount for you. Please bear with me for a moment.",
+      "intention": "purchase",
+      "sentiment": "positive"
+    },
+    {
+      "step": 6,
+      "buyer": "While you check that, can you also tell me about the warranty options?",
+      "seller": "Of course! We have comprehensive warranty plans. Let me explain them to you.",
+      "intention": "provide_information",
+      "sentiment": "neutral"
+    },
+    {
+      "step": 7,
+      "buyer": "Good to know. I want to make sure my investment is protected.",
+      "seller": "Absolutely! It's essential to have peace of mind. Our warranty plans are designed to provide just that.",
+      "intention": "express_satisfaction",
+      "sentiment": "positive"
+    },
+    {
+      "step": 8,
+      "buyer": "What about the delivery options? Can I get it expedited?",
+      "seller": "Certainly! We offer expedited shipping. Let me explain the delivery options available to you.",
+      "intention": "provide_information",
+      "sentiment": "neutral"
+    },
+    {
+      "step": 9,
+      "buyer": "That's perfect. I need it as soon as possible.",
+      "seller": "Noted! We'll make sure to expedite the delivery for you. Anything else you'd like to know?",
+      "intention": "confirm_expedited_delivery",
+      "sentiment": "positive"
+    },
+    {
+      "step": 10,
+      "buyer": "I'm satisfied with the information. Let's proceed with the purchase.",
+      "seller": "Great decision! Let me guide you through the purchase process. It's quick and straightforward.",
+      "intention": "finalize_purchase",
+      "sentiment": "positive"
+    },
+    {
+      "step": 11,
+      "buyer": "Before I finalize, can I customize the color of the iPhone?",
+      "seller": "Absolutely! We have several color options available. You can choose the one that suits your style.",
+      "intention": "provide_information",
+      "sentiment": "neutral"
+    },
+    {
+      "step": 12,
+      "buyer": "Good to know. I'll go with the classic black color then.",
+      "seller": "Excellent choice! The classic black is always a popular option. Anything else you'd like to add?",
+      "intention": "change_color_choice",
+      "sentiment": "positive"
+    },
+    {
+      "step": 13,
+      "buyer": "No, that's all. Let's proceed with the classic black color.",
+      "seller": "Perfect! Let me update your order with the classic black color. Anything else before we finalize?",
+      "intention": "confirm_color_choice",
+      "sentiment": "positive"
+    },
+    {
+      "step": 14,
+      "buyer": "I'm excited about getting my new iPhone. When can I expect the delivery?",
+      "seller": "Your excitement is contagious! Let me check the estimated delivery date for you.",
+      "intention": "provide_information",
+      "sentiment": "positive"
+    },
+    {
+      "step": 15,
+      "buyer": "I hope it arrives before the weekend. I have plans to show it off to my friends!",
+      "seller": "That's fantastic! I'll make a note to prioritize the delivery before the weekend. Anything else?",
+      "intention": "express_satisfaction",
+      "sentiment": "positive"
+    },
+    {
+      "step": 16,
+      "buyer": "No, that's all. I appreciate your assistance. Looking forward to receiving it!",
+      "seller": "You're welcome! We appreciate your business. If you have any more questions, feel free to reach out. Enjoy your new iPhone!",
+      "intention": "express_satisfaction",
+      "sentiment": "positive"
+    },
+    {
+      "step": 17,
+      "buyer": "Thank you! I'll be eagerly waiting for it.",
+      "seller": "The pleasure is ours! If there's anything else, don't hesitate to ask. Have a great day!",
+      "intention": "express_satisfaction",
+      "sentiment": "positive"
+    },
+    {
+      "step": 18,
+      "buyer": "Goodbye for now. Can't wait to unbox my new iPhone!",
+      "seller": "Goodbye! We're excited for you too. Safe unboxing and enjoy your new device!",
+      "intention": "express_satisfaction",
+      "sentiment": "positive"
+    },
+    {
+      "step": 19,
+      "buyer": "See you! I'll definitely recommend your store to my friends.",
+      "seller": "Thank you for the recommendation! We appreciate it. If your friends have any questions, we're here to help.",
+      "intention": "express_satisfaction",
+      "sentiment": "positive"
+    },
+    {
+      "step": 20,
+      "buyer": "Absolutely! Have a great day!",
+      "seller": "You too! If you ever need anything in the future, feel free to reach out. Take care!",
+      "intention": "express_satisfaction",
+      "sentiment": "positive"
+    }
+  ]
+  

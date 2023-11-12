@@ -1,0 +1,40 @@
+Step 1 - Sentiments: positive with score: 0.9927589893341064
+Intent: purchase with score: 0.9626812934875488
+Step 2 - Sentiments: positive with score: 0.9434311985969543
+Intent: provide_information with score: 0.8481239080429077
+Step 3 - Sentiments: positive with score: 0.9026397466659546
+Intent: provide_information with score: 0.6833913922309875
+Step 4 - Sentiments: negative with score: 0.5744536519050598
+Intent: purchase with score: 0.7902098298072815
+Step 5 - Sentiments: positive with score: 0.9957597255706787
+Intent: purchase with score: 0.9752668738365173
+Step 6 - Sentiments: positive with score: 0.7608548998832703
+Intent: provide_information with score: 0.8297154903411865
+Step 7 - Sentiments: positive with score: 0.9695118069648743
+Intent: provide_information with score: 0.8436241149902344
+Step 8 - Sentiments: positive with score: 0.9716113209724426
+Intent: confirm_expedited_delivery with score: 0.8849917650222778
+Step 9 - Sentiments: positive with score: 0.9743086099624634
+Intent: confirm_expedited_delivery with score: 0.9688440561294556
+Step 10 - Sentiments: positive with score: 0.9958299398422241
+Intent: purchase with score: 0.9903810024261475
+Step 11 - Sentiments: positive with score: 0.4940474331378937
+Intent: change_color_choice with score: 0.7300295829772949
+Step 12 - Sentiments: positive with score: 0.9940910935401917
+Intent: confirm_color_choice with score: 0.902113676071167
+Step 13 - Sentiments: positive with score: 0.923026978969574
+Intent: purchase with score: 0.9127129912376404
+Step 14 - Sentiments: positive with score: 0.9029508233070374
+Intent: purchase with score: 0.8700444102287292
+Step 15 - Sentiments: positive with score: 0.9963040947914124
+Intent: confirm_expedited_delivery with score: 0.9222846627235413
+Step 16 - Sentiments: positive with score: 0.9484028220176697
+Intent: provide_information with score: 0.6226368546485901
+Step 17 - Sentiments: positive with score: 0.8962072134017944
+Intent: confirm_expedited_delivery with score: 0.6099420785903931
+Step 18 - Sentiments: positive with score: 0.9545184373855591
+Intent: purchase with score: 0.7152515649795532
+Step 19 - Sentiments: positive with score: 0.9726604223251343
+Intent: confirm_color_choice with score: 0.5471304059028625
+Step 20 - Sentiments: positive with score: 0.9898345470428467
+Intent: provide_information with score: 0.6575902700424194
